@@ -16,7 +16,7 @@ Standard C++ library
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/yourusername/Firewall.git
+git clone https://github.com/MasterRays77/Firewall.git
 cd Firewall
 2. Compile the source code:
 g++ -o firewall Firewall.cpp
